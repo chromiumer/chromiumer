@@ -6,7 +6,9 @@
    src="https://github-readme-stats.vercel.app/api?username=chromiumer&show_icons=true&icon_color=E65A65&text_color=adbac7&bg_color=2d333b" 
 />
 
-[![chromiumer's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromiumer&show_icons=true)](https://github.com/chromiumer/github-readme-stats)
+<div align="left">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromiumer&layout=compact" />
+</div>
 
 <!--
 **chromiumer/chromiumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
