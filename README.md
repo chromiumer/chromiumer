@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <img 
    align="right" 
    style="pointer-events:none;" 
@@ -9,6 +11,9 @@
 <div align="left">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromiumer&layout=compact" />
 </div>
+
+
+
 
 <!--
 **chromiumer/chromiumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
