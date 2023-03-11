@@ -9,7 +9,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chromiumer&repo=respeed)](https://github.com/chromiumer/respeed)
 
-<div>
+<div align="right">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromiumer" />
 </div>
 
