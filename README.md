@@ -9,7 +9,7 @@
 />
 
 <div align="left">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromiumer&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromiumer" />
 </div>
 
 
